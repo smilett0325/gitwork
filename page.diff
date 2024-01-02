@@ -1,0 +1,14 @@
+diff --git a/b.html b/b.html
+index 10ecac1..5d26447 100644
+--- a/b.html
++++ b/b.html
+@@ -8,7 +8,7 @@
+ </head>
+ 
+ <body>
+-    <h1>123</h1>
++    <h1>456</h1>
+ </body>
+ 
+ </html>
+\ No newline at end of file
